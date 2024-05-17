@@ -1,6 +1,6 @@
 # Push-Swap 42
 
-Projet pour 42, il consiste a renvoyer une liste d'instruction pour permettre de trier la pile , il utilise l'algorithme "turque".
+Projet pour 42, il consiste a renvoyer une liste d'instruction pour permettre de trier la pile , il utilise l'algorithme "turc".
 
 ## Installation
 
