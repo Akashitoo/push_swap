@@ -4,7 +4,7 @@ Projet pour 42, il consiste a renvoyer une liste d'instruction pour permettre de
 
 ## Installation
 
-```sh https://github.com/Akashitoo/push_swap.git```
+```https://github.com/Akashitoo/push_swap.git```
 
 ## Usage
 
