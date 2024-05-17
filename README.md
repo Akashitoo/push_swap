@@ -12,7 +12,7 @@ Compilez avec :
 
 ```make```
 
-Lancer avec :
+Lancez avec :
 
 ```./push_swap [liste de nombre entiers] ```
 
