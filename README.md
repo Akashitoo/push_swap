@@ -5,8 +5,13 @@ Projet pour 42, il consiste a renvoyer une liste d'instruction pour permettre de
 ## Installation
 
 ```sh https://github.com/Akashitoo/push_swap.git```
+
 ## Usage
+
 Compilez avec :
+
 ```make```
+
 Lancer avec :
+
 ```./push_swap [liste de nombre entiers]```
